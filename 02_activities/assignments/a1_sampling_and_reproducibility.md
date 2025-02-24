@@ -10,12 +10,14 @@ Modify the number of repetitions in the simulation to 100 (from the original 100
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Rashita Kalra
 
 ```
-Please write your explanation here...
+The whitby_covid_tracing.py script simulates how infections spread and how contact tracing can introduce biases. Sampling happens at different points in the model. First, 10% of individuals are randomly infected using np.random.choice(). Then, 20% of these infected individuals are traced through a Bernoulli distribution using np.random.rand(). Finally, in the secondary contact tracing step, if an event has at least two traced cases, all infected participants from that event are traced. 
 
-```
+When running the script, the histogram shows that the proportion of traced infections from weddings (red bars) is higher than the actual infections from weddings (blue bars). 
+Reducing the number of repetitions from 1000 to 100 makes the results less stable. The histogram fluctuates more, which shows that smaller sample sizes make the results less reliable and more unpredictable.
+To make sure the results are consistent every time the script runs, I added np.random.seed(42) and random.seed(42). This means that the same people get infected and traced in each run, so the graphs stay the same. 
 
 
 ## Criteria
