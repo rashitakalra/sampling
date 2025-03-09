@@ -44,26 +44,66 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to understand why entry- and lower-level employees are leaving the company at a high rate. By gathering insights on job satisfaction, workplace culture, compensation, and career growth opportunities, the company can identify key areas for improvement. The goal is to implement changes that enhance employee retention, boost workplace morale, and create a more supportive and engaging work environment.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population:
+Current and recently departed entry- and lower-level employees of the tech company.
+
+Sampling Frame:
+A list of all entry- and lower-level employees from the company’s HR database, including those who have resigned in the past six months.
+
+Sampling Units:
+Individual employees selected from the company’s database.
+
+Observational Units:
+Responses provided by each employee regarding their job satisfaction, reasons for leaving, and workplace experiences.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you worked (or did you work) at the company?
+a. Less than 6 months
+b. 6 months to 1 year
+c. 1 to 3 years
+d. More than 3 years
+2. What was your primary reason for leaving (or considering leaving) the company?
+a. Low salary or lack of benefits
+b. Limited career growth opportunities
+c. Poor work-life balance
+d. Unsatisfactory management or work environment
+e. Other (please specify)
+3. How satisfied are you with your current (or previous) role at the company?
+a. Very satisfied
+b. Somewhat satisfied
+. Neutral
+d. Somewhat dissatisfied
+e. Very dissatisfied
+4. Do you feel that the company provides enough professional development and growth opportunities?
+a. Yes
+b. No
+c. Not sure
+4. How would you rate your work-life balance at the company?
+a. Excellent
+b. Good
+c. Fair
+d. Poor
+5. How often did you feel valued and recognized for your contributions?
+a. Always
+b. Often
+c. Sometimes
+d. Rarely
+e. Never
+6. What changes would make you more likely to stay (or would have encouraged you to stay) at the company?
+a. Higher salary/benefits
+b. Better work-life balance
+c. More career growth opportunities
+d. Improved management and communication
+e. Other (please specify)
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +111,7 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+The GVP 2018 surveyed 16,000+ Canadians (15+) using the Labour Force Survey frame, with data collected online and by phone (Sept 2018–Jan 2019) and a 52% response rate. Weights, cleaning, and imputation adjusted biases, but sampling errors and social desirability bias remained.
 ```
 
 ## Rubric
