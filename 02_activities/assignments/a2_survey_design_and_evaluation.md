@@ -107,21 +107,33 @@ Identify and describe survey features:
 
 ```
 Sample Type: The GSS-GVP survey employed a probability sampling strategy with a stratified design. This ensured that diverse groups within the target population were adequately represented, resulting in more accurate and generalizable findings.
+
 Sample Size: The sample size for the survey ranged between 20,000 and 24,000 sampled dwellings, which led to about 14,000 to 16,000 completed interviews. This substantial sample size provides a strong foundation for the conclusions drawn from the survey data.
+
 Target Population: The target population for this survey consisted of individuals aged 15 and older who were living in private households across Canada.
+
 Sampling Frame: The sampling frame was based on an address-based list of private dwellings maintained by Statistics Canada. This comprehensive list allowed for a broad reach across various regions in Canada, ensuring that a diverse range of individuals were included in the survey.
+
 Survey Mode(s): The survey utilized two modes of data collection: Computer-Assisted Telephone Interviewing (CATI) and a secure online questionnaire. The mixed mode approach helped ensure accessibility and improved response rates, catering to different respondent preferences.
+
 Timeline: Data collection for the survey took place between September and December 2018, with some data collection extending into early 2019. This timeline ensured that data was collected across multiple months, providing a snapshot of giving, volunteering, and participation behaviors throughout the year.
+
 Response Rate: The response rate for the survey was between 45% and 50%, which is typical for surveys of this nature. While the response rate could have been higher, it is still sufficient to draw meaningful conclusions, especially with the large sample size.
+
 Weights: Survey weights were provided to adjust for population representativeness. These weights ensure that the findings from the sample reflect the demographics and characteristics of the general population. Bootstrap weights were also available for variance estimation, adding rigor to the analysis.
+
 Data Processing: The survey data underwent standard processing steps such as editing, range checks, and consistency checks. These steps were crucial for identifying and correcting errors in the dataset. Open-ended responses were also coded to facilitate analysis.
+
 Cleaning, Imputation, etc.: Missing data were handled using hot-deck imputation methods, a commonly used technique in surveys conducted by Statistics Canada. This method helps fill in missing responses based on the most similar observed data points.
+
 Sources of Error: The GSS-GVP survey acknowledges several potential sources of error, including:
 Sampling Error: The difference between the sample estimate and the true population value.
 Coverage Error: The possibility that certain groups may not have been included in the sampling frame (e.g., individuals living in institutional settings).
 Measurement Error: Errors that occur during data collection, such as misinterpretation of questions.
 Non-response Error: Bias introduced when individuals who do not respond to the survey differ from those who do.
+
 Limitations, Known Biases: Some limitations and biases in the GSS-GVP survey include the exclusion of institutionalized individuals and potential biases introduced by telephone-based data collection. Furthermore, self-reported behaviors, such as volunteering or charitable giving, can be influenced by social desirability bias, leading to over-reporting of these behaviors.
+
 Link to Documentation:
 Statistics Canada Survey Description
 Instrument/Questionnaire Documentation
